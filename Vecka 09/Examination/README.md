@@ -7,10 +7,10 @@ Detta dokument beskriver upplägget för kursens avslutande tentamenstillfälle,
 Detta avsnitt innehåller ett antal instuderingsfrågor som kan användas i studiesyfte. Notera att flervalsfrågor kan ha ett eller flera korrekta alternativ. Frågorna är menade att besvaras utifrån hur dom är formulerade; frågor skall inte tolkas eller sättas i andra sammanhang.
 
 1. Vilket eller vilka av följande alternativ är korrekt gällande DOM Level 0 Event Model?
-  1. Den första standarden för händelsehantering inom JavaScript.
-  2. Anses vara bristfällig och föråldrad och skall således inte användas i praktiken.
-  3. Är inte längre möjlig att använda i samtida webbläsare.
-  4. Modell som använder HTML-attribut för registrering av händelselyssnare.
+   1. Den första standarden för händelsehantering inom JavaScript.
+   2. Anses vara bristfällig och föråldrad och skall således inte användas i praktiken.
+   3. Är inte längre möjlig att använda i samtida webbläsare.
+   4. Modell som använder HTML-attribut för registrering av händelselyssnare.
 2. Vilket eller vilka av följande alternativ är korrekt gällande händelsehanterare?
    1. Den mekanism som används för att påbörja lyssningsprocessen för en specifik händelse.
    2. Exekverbar referens som anropas då en händelse inträffar.

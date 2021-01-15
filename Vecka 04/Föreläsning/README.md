@@ -531,6 +531,6 @@ Mozilla. (2021). *Event reference | MDN*. [online] Available at: https://develop
 
 Mozilla. (2020). *Introduction to events*. [online] Available at: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events
 
-M ozilla. (2019). *Promise*. [online] Available at: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+Mozilla. (2019). *Promise*. [online] Available at: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
 
 W3C (World Wide Web Consortium) (2020). *Document Object Model (DOM) Level 2 Events Specification*. [online] Available at: https://www.w3.org/TR/DOM-Level-2-Events/

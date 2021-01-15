@@ -246,6 +246,7 @@ sequenceDiagram
 
 Russell, A. (2015). *Progressive Web Apps: Escaping Tabs Without Losing Our Soul*. [online] Medium. Available at: https://medium.com/@slightlylate/progressive-apps-escaping-tabs-without-losing-our-soul-3b93a8561955#.6czgj0myh
 
-www.w3.org. (2019). *Service Workers 1*. [online] Available at: https://www.w3.org/TR/service-workers/.
+W3C (World Wide Web Consortium). (2019). *Service Workers 1*. [online] Available at: https://www.w3.org/TR/service-workers/.
 
-www.w3.org. (2020). *Web App Manifest*. [online] Available at: https://www.w3.org/TR/appmanifest/
+W3C (World Wide Web Consortium). (2020). *Web App Manifest*. [online] Available at: https://www.w3.org/TR/appmanifest/
+
