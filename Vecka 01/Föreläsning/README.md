@@ -168,7 +168,7 @@ En introduktion till mikrointeraktion
 - En ”system trigger” kan aktiveras på grund av konfigurerad mjukvara, alternativt tillstånd av aktuell hårdvara
 - Exempel på vanliga tillstånd som kan aktivera en ”system trigger”:
     - **Fel;** *informerar användare, alternativt begära åtgärd*
-    - **Plats;** *local eller global förändring av position*
+    - **Plats;** *lokal eller global förändring av position*
     - **Inkommande data;** *exempelvis epost, textmeddelande eller push-notiser*
     - **Intern data;** *exempelvis alarm eller påminnelser*
     - **Andra microinteraktioner;** *exempelvis steg för steg instruktioner*
