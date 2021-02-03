@@ -1,3 +1,4 @@
+---
 # Objektorienterad programmering
 
 En introduktion till objektorienterad utveckling med JavaScript.
@@ -197,7 +198,7 @@ console.log(obj instanceof Car); // true
 	- Egenskaper görs tillgängliga via punktnotation:
 
 ```JavaScript
-car.color = 0xff0000ff;
+car.color = 0xffff0000;
 ```
 
 *Fig. Objektet `car` får egenskapen `color` satt till röd i hexadecimal.*
